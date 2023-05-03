@@ -4,7 +4,18 @@ this Discord bot is for anyone using stable diffusion image generation.
 
 It can pull images from a specified directory, rename them via index (0.png, 1.png, 2.png) and post them in the discord chat.
 
-The commands are:
+
+To set it up, create a bot on the https://discord.com/developers/applications portal first and generate your bot token. 
+
+open the .env file and replace the "your-bot-token-here" string with your actual bot token. 
+
+open the bot.py and specify the directory you want to pull images from by replacing "YOUR/FILE/DIRECTORY/TO/PULL/IMAGES/FROM" with your local output folder from SD (or any other images directory containing .png files)
+
+save the files, and you're good to go. 
+
+
+The bot comes with the following commands:
+
 
 !hi (Hello!) : Ping command to test if the bot is working
 
