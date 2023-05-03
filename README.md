@@ -11,6 +11,12 @@ open the .env file and replace the "your-bot-token-here" string with your actual
 
 open the bot.py and specify the directory you want to pull images from by replacing "YOUR/FILE/DIRECTORY/TO/PULL/IMAGES/FROM" with your local output folder from SD (or any other images directory containing .png files)
 
+to run the file, you need the following python packages:
+
+nextcord, install with 'pip install nextcord'
+dotenv, install with 'pip install python-dotenv'
+
+
 save the files, and you're good to go. 
 
 
