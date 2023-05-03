@@ -44,3 +44,5 @@ These functions allow access to the generated files on the go by pulling them in
 If you find yourself using this bot regularly, consider buying me a coffee - or a golden house, or gecco food, idc. 
 
 enjoy
+
+- shoutout and credit to Max Teaches Tech for getting me started on Discord bots. If you struggle to activate the bot on your server, be sure to check out his Youtube Channel! https://www.youtube.com/@MaxTeachesTech
