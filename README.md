@@ -42,6 +42,7 @@ These functions allow access to the generated files on the go by pulling them in
 
 
 If you find yourself using this bot regularly, consider buying me a coffee - or a golden house, or gecco food, idc. 
+https://www.buymeacoffee.com/cybersnacc
 
 enjoy
 
