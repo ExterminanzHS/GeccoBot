@@ -5,7 +5,20 @@ this Discord bot is for anyone using stable diffusion image generation.
 It can pull images from a specified directory, rename them via index (0.png, 1.png, 2.png) and post them in the discord chat.
 
 
-To set it up, create a bot on the https://discord.com/developers/applications portal first and generate your bot token. 
+ https://discord.com/developers/applications portal 
+
+1. To set it up, create a bot on the [Discord Developer Portal](https://discord.com/developers/applications) 
+2. Click on "New Application" and give your application a name.
+3. In the left sidebar, click on "Bot" and then "Add Bot" on the right.
+4. Under the bot's username, you'll see a "Token" section. Click "Copy" to copy your bot token.
+5. Paste this token into your `.env` file as described in the installation steps.
+6. In the left sidebar, click on "OAuth2" and then "URL Generator".
+7. In the "Scopes" section, check "bot".
+8. In the "Bot Permissions" section, check "Send Messages" and "Attach Files".
+9. Copy the generated URL at the bottom of the page.
+10. Open this URL in a new tab and select the server you want to add the bot to.
+
+Remember to keep your bot token secret and never share it publicly.
 
 open the .env file and replace the "your-bot-token-here" string with your actual bot token. 
 
